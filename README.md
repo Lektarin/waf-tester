@@ -1,6 +1,6 @@
-# WAF ModSecurity Test System (Прототип)
+# WAF ModSecurity Test System
 
-Упрощённая система для быстрого тестирования эффективности правил ModSecurity на nginx.
+Система для быстрого тестирования эффективности правил ModSecurity на nginx.
 
 ## Быстрый старт
 
